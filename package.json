@@ -1,0 +1,26 @@
+{
+  "name": "25-dias-reto-javascript",
+  "version": "1.0.0",
+  "description": "AdventJS - 25 días de retos javascript Resolución de los 25 días de retos Website: https://adventjs.dev/challenges",
+  "main": "01-contando-ovejas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jocafernanro/25-dias-reto-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jocafernanro/25-dias-reto-javascript/issues"
+  },
+  "homepage": "https://github.com/jocafernanro/25-dias-reto-javascript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
