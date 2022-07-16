@@ -6,7 +6,6 @@ function missingReindeer(ids) {
     if (Math.min(...ids) < 0) return new Error("Array contains numbers less than 0")
 
     return (ids.length * (ids.length + 1) / 2) - ids.reduce((acc, cur) => acc + cur, 0)
-
 }
 
 // Others possible solution: substract the ids arr sum and ids.length + 1 arr sum
