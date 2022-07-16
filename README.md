@@ -22,7 +22,7 @@ Website: https://adventjs.dev/challenges
 | 13  |                  Envuelve regalos con asteriscos                  |       🟢       |  [Check](https://github.com/jocafernanro/25-dias-reto-javascript/tree/main/13-envuelve-regalos-con-asteriscos)     |
 | 14  |                     En busca del reno perdido                     |       🟠       |  [Check](https://github.com/jocafernanro/25-dias-reto-javascript/tree/main/14-en-busca-reno-perdido)               |
 | 15  |                         El salto perfecto                         |       🟠       |  [Check](https://github.com/jocafernanro/25-dias-reto-javascript/tree/main/15-el-salto-perfecto)                   |
-| 16  |                    Descifrando los números...                     |       🟢       |  [Check](https://github.com/jocafernanro/25-dias-reto-javascript/tree/main/01-contando-ovejas)                     |
+| 16  |                    Descifrando los números...                     |       🟢       |  [Check](https://github.com/jocafernanro/25-dias-reto-javascript/tree/main/16-descifrando-los-numeros)             |
 | 17  |            La locura de enviar paquetes en esta época             |       🔴       |  [Check](https://github.com/jocafernanro/25-dias-reto-javascript/tree/main/01-contando-ovejas)                     |
 | 18  |                El sistema operativo de Santa Claus                |       🟢       |  [Check](https://github.com/jocafernanro/25-dias-reto-javascript/tree/main/01-contando-ovejas)                     |
 | 19  |                ¿Qué deberíamos aprender en Platzi?                |       🟠       |  [Check](https://github.com/jocafernanro/25-dias-reto-javascript/tree/main/01-contando-ovejas)                     |
